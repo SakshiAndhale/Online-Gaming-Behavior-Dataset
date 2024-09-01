@@ -118,7 +118,3 @@ The EDA was performed to answer key questions about the dataset and to uncover p
 - **Marketing Strategy:** Tailor marketing efforts to target specific demographics and genre preferences.
 - **Content Development:** Maintain engagement by developing content that resonates with the core player base, especially the 18-25 age group.
 - **Targeted Features:** Introduce rewards and challenges for extended play sessions to cater to highly engaged players.
-
----
-
-Thank you for exploring this project! Feel free to contribute or reach out with any suggestions.
